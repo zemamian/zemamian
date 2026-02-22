@@ -10,14 +10,6 @@ Most of my experience is in:
 - Designing maintainable architectures
 - Turning ideas into working products
 
-I’ve also worked as a product manager and backend developer on a startup focused on large-scale data collection and analysis, where I dealt with crawling, NLP pipelines, Elasticsearch, and the less glamorous parts of software like cron jobs, server maintenance, and keeping systems alive over time.
-
-I care about:
-- Clean, understandable code over clever code  
-- Systems that can be maintained by humans, not just their creators  
-- Honest communication in teams  
-- Learning deeply rather than chasing trends  
-
 Currently, I’m exploring ways to:
 - Build more independent, sustainable products
 - Work on internationally scoped projects
