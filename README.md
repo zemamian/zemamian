@@ -1,5 +1,34 @@
-### Hi there 👋
- - I am Zahra. I’m currently working as a back-end developer using Laravel and PHP. I love programming and trying to make new ideas to become real. My favorite language is PHP which I have been working with since university.
- - I like to have a balance between work and life. so I try to do my favorite hobbies besides coding. I do cycling and writing(some of them can be read from <a href="http://sedaye-baran76.blogfa.com/">here</a>).
- - My email : z.emamian@yahoo.com
+### Hi, I’m Zahra 👋
 
+I’m a software engineer with a strong focus on backend development, product thinking, and building things that actually get used.
+
+I started my career working on real-world systems early on — from municipal platforms to academic and healthcare-related dashboards — and after my BSc in Computer Engineering, I chose to build instead of continuing straight into academia. I co-founded a software company(<a href="https://karinco.ir">Karin<a/>) where I mainly worked on backend architecture, data-heavy systems, and decision-making around products, not just code.
+
+Most of my experience is in:
+- Backend development (Laravel, PHP, RESTful APIs)
+- Data-driven systems and dashboards
+- Designing maintainable architectures
+- Turning ideas into working products
+
+I’ve also worked as a product manager and backend developer on a startup focused on large-scale data collection and analysis, where I dealt with crawling, NLP pipelines, Elasticsearch, and the less glamorous parts of software like cron jobs, server maintenance, and keeping systems alive over time.
+
+I care about:
+- Clean, understandable code over clever code  
+- Systems that can be maintained by humans, not just their creators  
+- Honest communication in teams  
+- Learning deeply rather than chasing trends  
+
+Currently, I’m exploring ways to:
+- Build more independent, sustainable products
+- Work on internationally scoped projects
+- Combine technical work with writing and analysis
+
+I mostly work with:
+- Laravel / PHP
+- Python (for data-related tasks)
+- Angular
+- Git, Linux-based environments
+
+If something here resonates, feel free to explore my repositories or reach out.
+
+Thanks for stopping by.
