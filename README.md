@@ -22,5 +22,6 @@ I mostly work with:
 - Git, Linux-based environments
 
 If something here resonates, feel free to explore my repositories or reach out.
+Email: z.emamian98@gmail.com
 
 Thanks for stopping by.
